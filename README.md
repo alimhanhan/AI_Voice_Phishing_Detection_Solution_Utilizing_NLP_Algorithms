@@ -63,7 +63,7 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 </div>
 </details>
 
-<br><br><br><h2>🐟 Contents_3) Service Architecture & User Scenarios</h2><br>
+<br><br><br><h2>🐟 Contents_3) Service Architecture & User Scenarios</h2>
 
 ![스크린샷 2023-10-15 124544](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/f0a1b1d6-9ac0-47d0-8e6e-9b00dc89cb49)
 
