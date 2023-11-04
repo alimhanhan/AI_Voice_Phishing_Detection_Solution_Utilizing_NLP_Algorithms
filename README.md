@@ -163,7 +163,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <h4>ㅤOur custom model is inspired by the R-BERT model and built upon the architecture of the KoBIGBIRD model. In the Relation Extraction Task, the R-BERT model enhances its performance by utilizing not only the CLS token but also the embedding vectors of entity1 and entity2.<br><br>ㅤIn this regard, our model can be characterized as a customized model that leverages not only the CLS token but also the entire dialogue data, extracted morphemes and keywords, and their respective embedding vectors in the training process.<br><br>ㅤFurthermore, by combining the CLS tokens of Kr-BERT and KoBIGBIRD, our model aims to integrate the diverse features of both models, leveraging their respective strengths and compensating for their shortcomings.</h4>
 
  
-![스크린샷 2023-11-02 194711](https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/a32c8d54-cb69-49dd-999b-87a0c5cbdfbc)
+![스크린샷 2023-11-02 194711](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/c08b96bf-4ea4-4369-9850-5f1f29b0d27a)
+
 
 
 <h4>ㅤThis model combines the embedding values of the CLS tokens from Kr-BERT and KoBIGBIRD.<br><br>ㅤSubsequently, the entire dialogue data and the data extracted only for keywords and morphemes are separated into vectors using an index that indicates the end of the sentence. This process is designed to understand the context of the conversation through the entire dialogue data and to learn the important parts of the conversation through morphemes and keywords.<br><br>ㅤFinally, through the FCLayer class, the dimensions of each vector are adjusted and combined to create a single vector, which is used as the input value of the model. Using this generated data, the model can predict the final class, i.e., whether it is a phishing attempt, through the label classifier.<br><br>ㅤBy combining Kr-BERT's language understanding capabilities and KoBIGBIRD's ability to handle long texts, the model incorporates various features of the input text. It is expected to leverage KoBIGBIRD's strengths in handling long dialogue data and Kr-BERT's strengths in understanding subtle meanings and expressions within sentences.</h4>
@@ -174,7 +175,9 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <summary><h3>📑 The Types of Collected Data</h3></summary>
 <div markdown="1">
 
-![스크린샷 2023-11-02 194843](https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/a945031a-fa26-4f77-9db3-6af269de9a80)
+![스크린샷 2023-11-02 194843](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/8a1a3181-3d59-49bd-b761-8d6ea85683ea)
+
+
 <br><h4>👉ㅤIn this project, the collected data is in unstructured form, categorized into phishing and legitimate data. To address class imbalance, augmentation was conducted only for the phishing data.</h4>
 <br><h4> Financial Supervisory Service Voice Phishing Voice Data:</h4>
 ➖ Loan fraud type: 185 instances<br>
