@@ -119,7 +119,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <div markdown="1">
 <h3>👁️‍🗨️ Voice Phishing Detection Algorithm Through Voice Data Processing</h3><br>
 
-![스크린샷 2023-11-02 192343](https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/43011728-5473-46e0-94a2-e8a40e4381b0)
+![스크린샷 2023-11-02 192343](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/4b5122ae-7c3f-4d2b-8cb9-01f8c41b386c)
+
 
 <h4><br>1️⃣ Send the collected voice file data to the AWS Transcribe server.
 <br><br>2️⃣ Perform speech-to-text (STT) through AWS Transcribe and preprocess the text data obtained from the file.
@@ -134,7 +135,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <div markdown="1">
 <h3>👁️‍🗨️ Model Training Performance Evaluation</h3>
 
-![스크린샷 2023-11-02 193500](https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/12ee705f-d498-4270-b8b0-7c0943dfc2a1)
+![스크린샷 2023-11-02 193500](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/3f855c0f-3ff9-4850-8add-63ac04a8af67)
+
 
 <br><h4>ㅤBased on the model performance comparison results, both the accuracy and F1-score evaluation metrics confirm the superiority of KoBIGBIRD. Furthermore, an inference test was conducted using a new test dataset consisting of 10 normal datasets and 10 phishing datasets, where both models correctly classified 19 out of the 20 test data.</h4><h3>➡️ Consequently, the KoBIGBIRD model was selected for use in voice phishing detection, and the solution proceeded accordingly. </h3><br><hr><br></details>
 <details>
@@ -143,7 +145,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <h3>👁️‍🗨️ Considered & Utilized Models</h3>
 <h4>⏩ In this project, we utilized the concatenation and customization of the KoBIGBIRD, R-BERT, and KR-BERT models.</h4>
 
-![스크린샷 2023-11-02 193837](https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/5d8cc645-747c-49a3-9bae-8ee3cafaaec5)
+![스크린샷 2023-11-02 193837](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/d44f863d-844b-4280-ab09-8dd556099789)
+
 
 
 <h3>#️⃣ KoBIGBIRD</h3>
