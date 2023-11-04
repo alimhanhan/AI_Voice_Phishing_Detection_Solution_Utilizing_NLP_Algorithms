@@ -46,7 +46,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <summary><h3>📑Sensors & Components Used</h3></summary>
 <div markdown="1">
 
-<img width="827" alt="스크린샷 2023-11-01 110804" src="https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/a8b9ca46-a83e-491c-8655-798d484e17da">
+![스크린샷 2023-11-04 184405](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/0d6bf8c3-4ccf-49c5-bc17-80cec404788b)
+
 
 <br><hr><br></details>
 <details>
@@ -54,7 +55,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <summary><h3>📑Detailed Hardware Design</h3></summary>
 <div markdown="1">
 
-<img width="681" alt="스크린샷 2023-11-01 110623" src="https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/c18f6d8a-9e42-45d8-a40a-aca06e4cf33d">
+![스크린샷 2023-11-04 184628](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/7e32f60c-0662-4a0b-bb33-ed3fe16d43f2)
+
 
 
 <br><hr><br>
