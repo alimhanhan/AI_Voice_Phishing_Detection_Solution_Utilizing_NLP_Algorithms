@@ -13,11 +13,15 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <div markdown="1">
 <h3>👁️‍🗨 The Evolving Techniques of Voice Phishing & Increasing Risks</h3>
 
-<img width="622" alt="스크린샷 2023-11-01 105929" src="https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/edadb3ec-4ec8-4d50-a58e-fcb1107cf4fa">
+
+
+![스크린샷 2023-11-04 183845](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/165823b1-c0a7-47d0-9535-04fd71e5fe30)
+
 
 <h4>ㅤAs seen in the article, voice phishing techniques are evolving by the day. Existing voice phishing prevention apps are already active in the smartphone domain, but there is a significant limitation in that they are relatively unfamiliar in areas such as internet telephony and landline calls.<br><br>ㅤTherefore, we aim to develop a system that can analyze conversation contents in real-time to discern instances of voice phishing and effectively communicate this for some vulnerable groups susceptible to voice phishing. </h4><br><br>
 
-<img width="621" alt="스크린샷 2023-11-01 110044" src="https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/c8399972-efe3-48b4-b2cd-093d5f39dd5f">
+![스크린샷 2023-11-04 183927](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/2b4bbe11-ed9c-4be7-b7e9-918dea95540c)
+
 
 <h4>ㅤFurthermore, existing voice phishing prevention methods are primarily designed for non-disabled individuals, posing limitations in terms of accessibility and usability for people with visual, auditory, cognitive, and other disabilities.<br><br>ㅤTherefore, we aim to develop a system that facilitates individuals with disabilities to more easily benefit from voice phishing prevention technology.</h4><br><hr><br>
 </details>
