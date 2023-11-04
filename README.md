@@ -65,7 +65,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 
 <br><br><br><h2>🐟 Contents_3) Service Architecture & User Scenarios</h2><br>
 
-<img width="630" alt="스크린샷 2023-11-01 110951" src="https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/3aa68415-a8cc-4f41-ac47-f6794065d886">
+![스크린샷 2023-10-15 124544](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/f0a1b1d6-9ac0-47d0-8e6e-9b00dc89cb49)
+
 
 
 <details>
@@ -73,7 +74,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <div markdown="1">
 <h3>👁️‍🗨️ Detailed UX</h3>
 
-![스크린샷 2023-11-02 191134](https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/8afff2c4-d4f5-498c-b2e4-1784e6c2be4a)
+![스크린샷 2023-11-02 191134](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/af653243-70cc-4b41-8845-bdcc818e3c49)
+
 
 
 <h4>
@@ -87,9 +89,11 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <div markdown="1">
 <h3>👁️‍🗨️ Additional Explanations for Each Step</h3><br>
 
-<img width="595" alt="스크린샷 2023-11-01 111050" src="https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/8329f946-3a03-4e42-8bc5-b2ffce1e256e">
+![스크린샷 2023-11-04 184959](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/94c0cd5c-10d8-4d6f-852f-f497e2b29524)
 
-<img width="611" alt="스크린샷 2023-11-01 111059" src="https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/d88f53e2-62c8-4dd9-af77-c1687e8f12a5">
+
+![스크린샷 2023-11-04 185107](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/16d72e6c-4ebc-430a-967a-65e17a3e4783)
+
 
  
  <h4>
