@@ -31,7 +31,7 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <div markdown="1">
 <h3>👁️‍🗨️ Competitiveness of the Idea in terms of Functionality & Usability</h3>
 
-<img width="608" alt="스크린샷 2023-11-01 110234" src="https://github.com/alimhanhan/A.I_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/35c615a0-e529-410e-8050-a63938644820">
+![스크린샷 2023-11-04 184113](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/77814cd2-f266-49b0-acaa-fb508c3b1b1c)
 
 
 <h4>ㅤMany services currently available in the market primarily focus on detecting phishing on smartphones, making it difficult for the elderly population, who may not be familiar with smartphone usage, to detect voice phishing. <br><br>ㅤAdditionally, while non-disabled individuals can use the service without inconvenience, there is no separate convenience device for people with disabilities, leading to difficulties for them in using such services.</h4><br>
