@@ -178,7 +178,7 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 ![스크린샷 2023-11-02 194843](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/8a1a3181-3d59-49bd-b761-8d6ea85683ea)
 
 
-<br><h4>👉ㅤIn this project, the collected data is in unstructured form, categorized into phishing and legitimate data. To address class imbalance, augmentation was conducted only for the phishing data.</h4>
+<br><h4>👉ㅤIn this project, the collected data is in unstructured form, categorized into phishing and non-phishing data. To address class imbalance, augmentation was conducted only for the phishing data.</h4>
 <br><h4> Financial Supervisory Service Voice Phishing Voice Data:</h4>
 ➖ Loan fraud type: 185 instances<br>
 ➖ Financial fraud type: 227 instances
