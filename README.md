@@ -4,7 +4,7 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 
 
 <br><br><h2>🐟 Project Organizations Link</h2>
--->  https://github.com/Voice-Phishing-Prevention-Project<br>
+-->  (AI Voice Phishing Detection Solution Utilizing NLP Algorithms)[https://github.com/Voice-Phishing-Prevention-Project]<br>
 <br>![스크린샷 2023-11-04 183636](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/4a7b0dfa-6529-4fab-bd8f-191ae83e109b)
 
 <br><br><h2>🐟 Contents_1) Introduction to Project Background </h2>
